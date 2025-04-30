@@ -29,3 +29,4 @@ print("d:", d)
 ![Screenshot 2025-04-30 104241](https://github.com/user-attachments/assets/8bc8641c-7a6d-446f-a4e3-2df86c0fc251)
 
 ## Result
+Thus,the python program Code Execution is Successful 
